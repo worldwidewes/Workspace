@@ -5,8 +5,8 @@
 //     code: 'document.body.style.backgroundColor="red"'
 //   });
 // });
-  	window.wcl = {};
-  	wcl.alert = function(msg){
-        /*FIRE AN ALERT MESSAGE*/
-        alert(msg);
-    };
+  	// window.wcl = {};
+  	// wcl.alert = function(msg){
+   //      /*FIRE AN ALERT MESSAGE*/
+   //      alert(msg);
+   //  };
