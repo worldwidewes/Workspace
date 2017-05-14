@@ -5,5 +5,8 @@
 //     code: 'document.body.style.backgroundColor="red"'
 //   });
 // });
-window.WCL = window.WCL || {};
-console.log("the background.js file is working");
+  	window.wcl = {};
+  	wcl.alert = function(msg){
+        /*FIRE AN ALERT MESSAGE*/
+        alert(msg);
+    };
