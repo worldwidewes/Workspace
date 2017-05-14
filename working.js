@@ -1,2 +1,1 @@
-var wes = cool;
-//a change by branch2
+var commit 4 = "allnew";
